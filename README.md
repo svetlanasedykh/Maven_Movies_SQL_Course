@@ -1,4 +1,10 @@
 # Maven_Movies_SQL_Course
+
+## Project Presentation
+
+The project presentation in PDF format is available upon request.
+
+
 ![SQL Project](SQL_Project.png)
 
 In this project-based, highly engaging course by Maven Analytics, I took on the role
